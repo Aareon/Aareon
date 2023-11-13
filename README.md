@@ -5,10 +5,9 @@ Python applications & backend developer. Cryptocurrency and blockchain enthusias
 - 🏳️‍🌈 Country: USA
 - 💬 Language: English
 - 🗓️ Age: 26yrs old
-- 💼 Occupation: Disabled US Airforce veteran / hobbyist software developer
+- 💼 Occupation: IT Support Associate II, OTS @ Amazon!
 - 😄 Pronouns: He/Him/They/Them
 - ⚡ Fun fact: Phasmophobia is one of my favorite games!
-- I'm looking for work! In search of gainful employment and learning opportunities.
 
 <img
   src="./Phasmophobia_player_card.png"
