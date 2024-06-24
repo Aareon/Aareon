@@ -4,7 +4,7 @@ Python applications & backend developer. Cryptocurrency and blockchain enthusias
 ## About Me
 - 🏳️‍🌈 Country: USA
 - 💬 Language: English
-- 🗓️ Age: 26yrs old
+- 🗓️ Age: 27yrs old
 - 💼 Occupation: IT Support Associate II, OTS @ Amazon!
 - 😄 Pronouns: He/Him/They/Them
 - ⚡ Fun fact: Phasmophobia is one of my favorite games!
